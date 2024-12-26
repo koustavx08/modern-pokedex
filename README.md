@@ -27,13 +27,13 @@ A sleek, interactive web-based Pokédex that brings your favorite Pokémon to li
 
 ## ✨ Live Demo
 
-Check out the live demo: [Modern Pokédex](https://koustavdeveloper.github.io/modern-pokedex/)
+Check out the live demo: [Modern Pokédex](https://koustavx08.github.io/modern-pokedex/)
 
 ## 🚀 Getting Started
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/KoustavSingh/modern-pokedex.git
+   git clone https://github.com/koustavx08/modern-pokedex.git
    ```
 
 2. **Open the project**
@@ -108,4 +108,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by [Koustav Singh](https://github.com/KoustavDeveloper)
+Made with ❤️ by [Koustav Singh](https://github.com/koustavx08)
